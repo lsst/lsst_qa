@@ -1,0 +1,14 @@
+setupRequired(lsst)
+setupRequired(lsst_apps)
+setupRequired(lsst_distrib)
+
+setupRequired(obs_subaru)
+setupRequired(obs_cfht)
+setupRequired(obs_decam)
+
+setupRequired(obs_lsstSim)
+setupRequired(obs_sdss)
+
+setupRequired(validation_data_hsc)
+setupRequired(validation_data_cfht)
+setupRequired(validation_data_decam)
