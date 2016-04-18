@@ -12,3 +12,5 @@ setupRequired(obs_sdss)
 setupRequired(validation_data_hsc)
 setupRequired(validation_data_cfht)
 setupRequired(validation_data_decam)
+
+setupRequired(validate_drp)
