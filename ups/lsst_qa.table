@@ -1,4 +1,3 @@
-setupRequired(lsst)
 setupRequired(lsst_apps)
 setupRequired(lsst_distrib)
 
